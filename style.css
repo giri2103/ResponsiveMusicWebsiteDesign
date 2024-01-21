@@ -58,7 +58,7 @@ body {
   transition: all 0.3s ease;
 }
 
-.container .sidebar .logo a{
+.container .sidebar .logo a {
   font-weight: bold;
   transition: all 0.3s ease;
 }
@@ -66,22 +66,21 @@ body {
 .container .sidebar .logo:hover a,
 .container .sidebar .logo:hover i,
 .container .sidebar .menu ul li:hover a,
-.container .sidebar .menu ul li:hover i{
+.container .sidebar .menu ul li:hover i {
   color: #5773ff;
 }
 
-
-.container .sidebar .menu h5{
+.container .sidebar .menu h5 {
   color: #919191;
   margin-bottom: 12px;
   text-transform: uppercase;
 }
 
-.container .sidebar .menu ul{
+.container .sidebar .menu ul {
   list-style: none;
 }
 
-.container .sidebar .menu ul li{
+.container .sidebar .menu ul li {
   margin-bottom: 12px;
   display: flex;
   align-items: center;
@@ -89,14 +88,13 @@ body {
   cursor: pointer;
 }
 
-.container .sidebar .menu ul li a{
+.container .sidebar .menu ul li a {
   font-size: 14px;
   font-weight: bold;
   transition: all 0.3s ease;
 }
 
-
-.container .sidebar .playing .top{
+.container .sidebar .playing .top {
   background-color: #32323d;
   border-radius: 6px 6px 0 0;
   padding: 10px;
@@ -112,7 +110,7 @@ body {
   height: 36px;
 }
 
-.container .sidebar .playing .bottom{
+.container .sidebar .playing .bottom {
   background-color: #25252d;
   border-radius: 0 0 6px 6px;
   padding: 8px;
@@ -124,6 +122,11 @@ body {
 }
 
 .container .sidebar .playing .bottom i,
-.container .sidebar .playing .bottom p{
+.container .sidebar .playing .bottom p {
   color: #919191;
 }
+
+.container main{
+  padding: 20px 36px;
+}
+
