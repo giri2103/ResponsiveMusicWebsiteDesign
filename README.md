@@ -5,3 +5,5 @@ Media queries for responsive design and CSS transition for some cool animation e
 Music Player, Header, Genres and Top Musics sections.
 
 # Screenshot
+
+<img src="https://drive.google.com/uc?export=view&id=18Oiqxsoi-7ARe9L0cYx5Wrk6Zxh39MFF" alt="..."></img>
